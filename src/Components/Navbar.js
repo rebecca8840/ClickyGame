@@ -7,7 +7,7 @@ const Navbar = (props) =>(
       <a className="nav-link active" href="/">Clicky Game</a>
     </li>
     <li className="nav-item">
-      <a className="nav-link" href="">{props.gameNote}</a>
+      <a className="nav-link" href="">{props.Notice}</a>
 
     </li>
     <li className="nav-item">
